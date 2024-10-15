@@ -10,7 +10,7 @@
 
     <properties>
         <jdk.version>1.6</jdk.version>
-        <jetty.version>8.0.4.v20111024</jetty.version>
+        <jetty.version>9.4.55.v20240627</jetty.version>
     </properties>
 
     <packaging>jar</packaging>
